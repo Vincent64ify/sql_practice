@@ -1,3 +1,5 @@
+-- Using this dataset https://www.kaggle.com/datasets/rtatman/lego-database/data
+
 --- Find the total parts by theme name
 SELECT
   t.name,
